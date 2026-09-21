@@ -1,7 +1,7 @@
 # swift-metadata
 Metadata on datasets for systemic wildfire impacts on critical infrastructure networks in the Wildland-Urban Interface
 
-Visit [metadata-catalogue.csv](./metadata-catalogue.csv) to access the data listing.
+Visit [catalogue-metadata.csv](./catalogue-metadata.csv) to access the data listing.
 
 ## License
 
